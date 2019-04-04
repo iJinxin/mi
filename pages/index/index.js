@@ -20,6 +20,11 @@ Page({
       url: '../list/list'
     })
   },
+  testAdd: function() {
+    wx.navigateTo({
+      url: '../addMemo/addMemo'
+    })
+  },
   onLoad: function () {
     if (app.globalData.userInfo) {
       this.setData({

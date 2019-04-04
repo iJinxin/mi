@@ -10,5 +10,6 @@
   <view class="usermotto">
     <!-- <text class="user-motto">{{motto}}</text> -->
     <button bindtap="testList">测试列表</button>
+    <button bindtap="testAdd">测试添加</button>
   </view>
 </view>

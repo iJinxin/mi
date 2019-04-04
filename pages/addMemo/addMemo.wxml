@@ -1,0 +1,7 @@
+<view class="container">
+    <view class="header"></view>
+    <view class="body">
+        <view class="time"></view>
+        <view class="content">123</view>
+    </view>
+</view>
